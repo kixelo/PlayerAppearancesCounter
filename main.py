@@ -6,18 +6,15 @@ from selenium.webdriver.chrome.service import Service
 import time
 import re
 
-# Initialize the WebDriver (using Chrome in this example)
+
 service = Service(executable_path=r"C:\Users\igoro\Documents\Python projects 2024\Web scraping football data from Futbalnet\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
 
-# Open the webpage
 driver.get('https://sportnet.sme.sk/futbalnet/z/sfz/s/4408/vyhodnotenie/?part=8115&tableView=')
 
-# Give the page time to load
 time.sleep(2)
 
-# Function to click the "Zobraziť viac" button until it's no longer available
 def click_show_more():
     while True:
         try:
@@ -77,7 +74,6 @@ for match in M_LINK:
                 filtered_divs = [div1 for div1 in DIVS_ if div1.find('svg', id='Layer_1')]
                 for div in filtered_divs:
                     subs_final = div.get_text().strip()
-
                     match = name_pattern.search(subs_final)
 
                     if match:
