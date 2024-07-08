@@ -1,5 +1,5 @@
 # Project idea
-As big fan of football (soccer) and its statistics too, I decided to create Python script that counts player appearances in the Slovak 3. liga East (Východ) for 2023-24, because I did not find them among statistics for 3rd tier of Slovak football. The script can be applied for any league or season that come from the same website. 
+As big fan of football (soccer) and its statistics too, I decided to create Python script that counts player appearances in the Slovak 3. liga East (Východ) for 2023-24, because I did not find them among statistics (https://sportnet.sme.sk/futbalnet/z/sfz/s/4408/vyhodnotenie/) for 3rd tier of Slovak football. The script can be applied for any league or season that come from the same website. 
 
 # Output of the script
 CSV file with all data that I wanted to have -->>> 3_liga_east_2023_24_squad_v2.csv <<<--
