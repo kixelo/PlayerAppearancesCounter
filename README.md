@@ -2,9 +2,7 @@
 As big fan of football (soccer) and its statistics too, I decided to create Python script that counts player appearances in the Slovak 3. liga East (Východ) for 2023-24, because I did not find them among statistics (https://sportnet.sme.sk/futbalnet/k/stara-lubovna-redfox-football-club/tim/58861/hraci/?partId=&sutaz=6477ac257b634444d118634a) for 3rd tier of Slovak football. The script can be applied for any league or season that come from the same website. 
 
 # Output of the script
-CSV file with all data that I wanted to have -->>> 3_liga_east_2023_24_squad_v2.csv <<<-- <p>
-        <a href="https://github.com/kixelo/PlayerAppearancesCounter/blob/master/3_liga_east_2023_24_squad_v2.csv" 3_liga_east_2023_24_squad_v2.csv>Download CSV File</a>
-    </p> 
+CSV file with all data that I wanted to have -->>> https://github.com/kixelo/PlayerAppearancesCounter/blob/master/3_liga_east_2023_24_squad_v2.csv <<<--
 
 ## Desktop application that I used for coding part
 ```
