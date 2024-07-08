@@ -1,10 +1,14 @@
-from bs4 import BeautifulSoup
-import requests
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.service import Service
-import time
 import re
+import time
+import pandas
+import requests
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+
+df = pandas.read_csv("3_liga_east_2023_24_squad.csv")
+
 
 
 service = Service(executable_path=r"C:\Users\igoro\Documents\Python projects 2024\Web scraping football data from Futbalnet\chromedriver.exe")
@@ -80,10 +84,18 @@ for match in M_LINK:
                         name = match.group()
                         BENCH_PLAYERS.append(name)
                     else:
-                        print("Name not found")
+                        continue
+                        #print("Name not found")
 
 
 PLAYERS.extend(BENCH_PLAYERS)
 
-enter_name = input("Enter name of player from 3. liga Východ: ")
-print(PLAYERS.count(enter_name))
+appear_list = []
+for index, row in df.iterrows():
+    #print(f"{row['Name']} has made {PLAYERS.count(row['Name'])} appearances and scored {row['Goals']} in 2023-24 season of the 3.liga East (Východ)")
+    appearances = PLAYERS.count(row['Name'])
+    appear_list.append(appearances)
+
+df = df.reindex(columns=['Name', 'Appearances', 'Goals', 'Yellow cards', 'Red cards'])
+df.to_csv("3_liga_east_2023_24_squad_v2.csv", encoding='utf-8-sig', index=False)
+
