@@ -34,4 +34,4 @@ from selenium.webdriver.common.by import By
 ```
 
 ## App Images:
-<img src="https://github.com/kixelo/guess_my_value/blob/main/guessing_game.PNG" />
+<img src="https://github.com/kixelo/PlayerAppearancesCounter/blob/master/output.png" />
