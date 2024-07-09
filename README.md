@@ -1,8 +1,8 @@
 # Project idea
-As big fan of football (soccer) and its statistics too, I decided to create Python script that counts player appearances in the Slovak 3. liga East (Východ) for 2023-24, because I did not find them among statistics for 3rd tier of Slovak football. The script can be applied for any league or season that come from the same website. 
+As big fan of football (soccer) and its statistics too, I decided to create Python script that counts player appearances in the Slovak 3. liga East (Východ) for 2023-24, because I did not find them among statistics (https://sportnet.sme.sk/futbalnet/k/stara-lubovna-redfox-football-club/tim/58861/hraci/?partId=&sutaz=6477ac257b634444d118634a) for 3rd tier of Slovak football. The script can be applied for any team, league or season that come from the same website. Currently, it operates only with player data of STARÁ ĽUBOVŇA REDFOX FOOTBALL CLUB, but I am planning to include all teams and also enhance logic/ funcionality of the script, and later make it in OOP style...
 
 # Output of the script
-CSV file with all data that I wanted to have.
+CSV file with all data that I wanted to have -->>> https://github.com/kixelo/PlayerAppearancesCounter/blob/master/3_liga_east_2023_24_squad_v2.csv <<<--
 
 ## Desktop application that I used for coding part
 ```
@@ -34,4 +34,4 @@ from selenium.webdriver.common.by import By
 ```
 
 ## App Images:
-<img src="https://github.com/kixelo/guess_my_value/blob/main/guessing_game.PNG" />
+<img src="https://github.com/kixelo/PlayerAppearancesCounter/blob/master/output.png" />
