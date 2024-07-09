@@ -6,8 +6,11 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-df = pandas.read_csv("3_liga_east_2023_24_squad.csv")
+
+df = pandas.read_csv("3_liga_east_2023_24_squad_RawFile.csv")
 
 
 service = Service(executable_path=r"C:\Users\igoro\Documents\Python projects 2024\Web scraping football data from Futbalnet\chromedriver.exe")
@@ -18,6 +21,12 @@ driver.get('https://sportnet.sme.sk/futbalnet/z/sfz/s/4408/vyhodnotenie/?part=81
 
 time.sleep(2)
 
+accept_cookies_button = WebDriverWait(driver, 1).until(
+                EC.element_to_be_clickable((By.CLASS_NAME, "fc-button-label"))
+            )
+accept_cookies_button.click()
+
+
 def click_show_more():
     while True:
         try:
@@ -26,6 +35,8 @@ def click_show_more():
             # Click the button
             show_more_button.click()
             # Wait for the content to load
+
+
             time.sleep(1)
         except Exception as e:
             # Break the loop if the button is not found
