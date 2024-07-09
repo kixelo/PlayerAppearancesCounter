@@ -10,7 +10,6 @@ from selenium.webdriver.common.by import By
 df = pandas.read_csv("3_liga_east_2023_24_squad.csv")
 
 
-
 service = Service(executable_path=r"C:\Users\igoro\Documents\Python projects 2024\Web scraping football data from Futbalnet\chromedriver.exe")
 driver = webdriver.Chrome(service=service)
 
@@ -85,8 +84,6 @@ for match in M_LINK:
                         BENCH_PLAYERS.append(name)
                     else:
                         continue
-                        #print("Name not found")
-
 
 PLAYERS.extend(BENCH_PLAYERS)
 
@@ -96,6 +93,10 @@ for index, row in df.iterrows():
     appearances = PLAYERS.count(row['Name'])
     appear_list.append(appearances)
 
+df['Appearances'] = appear_list
+df.to_csv("3_liga_east_2023_24_squad_v2.csv", encoding='utf-8-sig', index=False)
+
+df = pandas.read_csv("3_liga_east_2023_24_squad_v2.csv")
 df = df.reindex(columns=['Name', 'Appearances', 'Goals', 'Yellow cards', 'Red cards'])
 df.to_csv("3_liga_east_2023_24_squad_v2.csv", encoding='utf-8-sig', index=False)
 
