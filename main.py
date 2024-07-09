@@ -88,15 +88,21 @@ for match in M_LINK:
 PLAYERS.extend(BENCH_PLAYERS)
 
 appear_list = []
+team_list = []
+
 for index, row in df.iterrows():
     #print(f"{row['Name']} has made {PLAYERS.count(row['Name'])} appearances and scored {row['Goals']} in 2023-24 season of the 3.liga East (Východ)")
     appearances = PLAYERS.count(row['Name'])
+    teams = row['Team']
+    team_list.append(teams)
     appear_list.append(appearances)
+    #print(row)
 
 df['Appearances'] = appear_list
+df['Team'] = team_list
 df.to_csv("3_liga_east_2023_24_squad_v2.csv", encoding='utf-8-sig', index=False)
 
 df = pandas.read_csv("3_liga_east_2023_24_squad_v2.csv")
-df = df.reindex(columns=['Name', 'Appearances', 'Goals', 'Yellow cards', 'Red cards'])
+df = df.reindex(columns=['Name', 'Appearances', 'Goals', 'Yellow cards', 'Red cards', 'Team'])
 df.to_csv("3_liga_east_2023_24_squad_v2.csv", encoding='utf-8-sig', index=False)
 
