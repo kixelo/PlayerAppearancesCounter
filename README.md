@@ -11,7 +11,15 @@ As big fan of football (soccer) and its statistics too, I decided to create Pyth
 ```
 
 # Output of the script
+```
 CSV file with all data that I wanted to have -->>> https://github.com/kixelo/PlayerAppearancesCounter/blob/master/3_liga_east_2023_24_squad_v2.csv <<<--
+To verify my results, I attached an article from Futbalnet, where the statistics are mentioned for one player from my "CSV file" (Filip Serečin). (1st picture below)
+https://sportnet.sme.sk/spravy/futbal-rozhovor-filip-serecin-redfox-football-club-stara-lubovna-najlepsi-strelec-iii-liga-vychod/
+The 2nd one (below) is picture from my "CSV file".
+```
+<img src="https://github.com/kixelo/PlayerAppearancesCounter/blob/master/Screenshot%202024-07-09%20175424.png" />
+<img src="https://github.com/kixelo/PlayerAppearancesCounter/blob/master/Screenshot%202024-07-09%20175732.png" />
+
 
 ## Desktop application that I used for coding part
 ```
@@ -25,10 +33,12 @@ ChatGPT (gave me some useful hints)
 ```
 
 ## Build Setup, required to install dependencies for the project
+```
 pip install selenium
 pip install requests
 pip install pandas
 pip install beautifulsoup4
+```
 
 ## Used libraries and modules
 ```
