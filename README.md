@@ -33,10 +33,12 @@ ChatGPT (gave me some useful hints)
 ```
 
 ## Build Setup, required to install dependencies for the project
+```
 pip install selenium
 pip install requests
 pip install pandas
 pip install beautifulsoup4
+```
 
 ## Used libraries and modules
 ```
