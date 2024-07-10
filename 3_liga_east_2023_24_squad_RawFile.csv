@@ -1,4 +1,38 @@
 ﻿Name,Goals,Yellow cards,Red cards,Team
+Dušan Dlugoš,0,1,0,MŠK Tesla Stropkov
+Samuel Seman,0,0,0,MŠK Tesla Stropkov
+Filip Špak,1,4,1,MŠK Tesla Stropkov
+Miroslav Keresteš,4,4,0,MŠK Tesla Stropkov
+Marek Matkobiš,0,6,0,MŠK Tesla Stropkov
+Lukáš Zapotocký,0,2,0,MŠK Tesla Stropkov
+Samuel Červeňák,0,0,0,MŠK Tesla Stropkov
+Jakub Štefánik,0,7,0,MŠK Tesla Stropkov
+Tobiáš Konár,0,0,0,MŠK Tesla Stropkov
+Mamadou Traoré Coulibaly,0,4,0,MŠK Tesla Stropkov
+Viktor Bochin,0,0,0,MŠK Tesla Stropkov
+Klaudio Slebodník,0,0,0,MŠK Tesla Stropkov
+Adam Marcišin,0,0,0,MŠK Tesla Stropkov
+Dávid VIET NGUYEN HIEN,0,5,1,MŠK Tesla Stropkov
+Jhonatan Garcia Araque,3,6,0,MŠK Tesla Stropkov
+Marek Vasiľ,4,4,0,MŠK Tesla Stropkov
+Martin Polaščík,4,0,0,MŠK Tesla Stropkov
+Alex Olejár,3,9,1,MŠK Tesla Stropkov
+Erik Hurný,1,3,0,MŠK Tesla Stropkov
+Adrián Leško,8,4,1,MŠK Tesla Stropkov
+Lukáš Milan Ivančo,0,1,0,MŠK Tesla Stropkov
+Yevhenii Nemtinov,3,2,0,MŠK Tesla Stropkov
+Marko Milunović,0,1,0,MŠK Tesla Stropkov
+Richard Župa,0,0,0,MŠK Tesla Stropkov
+Lukáš Jendrek,1,0,0,MŠK Tesla Stropkov
+Richard Sabol,0,1,1,MŠK Tesla Stropkov
+Dávid Keresteš,0,2,0,MŠK Tesla Stropkov
+Jozef Sejka,0,0,0,MŠK Tesla Stropkov
+Dávid Ivanecký,10,4,0,MŠK Tesla Stropkov
+Frederik Varga,7,4,1,MŠK Tesla Stropkov
+Šimon Dovičák,1,5,0,MŠK Tesla Stropkov
+Filip Bobrovský,2,0,0,MŠK Tesla Stropkov
+Kevin Daniel Castrillón Gómez,6,3,1,MŠK Tesla Stropkov
+Aliou Diao,8,0,0,MŠK Tesla Stropkov
 Mário Švec,0,1,0,Stará Ľubovňa Redfox Football Club
 Filip Regitko,0,2,0,Stará Ľubovňa Redfox Football Club
 Ibrahim Suaib,0,0,0,Stará Ľubovňa Redfox Football Club
@@ -24,6 +58,31 @@ Tomasz Bomba,1,5,0,Stará Ľubovňa Redfox Football Club
 Matúš Perháč,3,1,0,Stará Ľubovňa Redfox Football Club
 Kristián Tináth,4,4,0,Stará Ľubovňa Redfox Football Club
 Erik Jendrišek,5,2,0,Stará Ľubovňa Redfox Football Club
+Peter Bartoš,0,0,0,ŠK Odeva Lipany
+Lukáš Kivader,0,0,0,ŠK Odeva Lipany
+Lukáš Šupka,0,0,0,ŠK Odeva Lipany
+Mário Jacko,6,4,0,ŠK Odeva Lipany
+Ján Dlugoš,5,5,0,ŠK Odeva Lipany
+Radoslav Kamenec,0,8,0,ŠK Odeva Lipany
+Branislav Poremba,0,3,2,ŠK Odeva Lipany
+Lukáš Timko,0,2,0,ŠK Odeva Lipany
+Jakub Bujňák,0,0,0,ŠK Odeva Lipany
+Pavol Popovec,0,0,0,ŠK Odeva Lipany
+Roman Kovalčík,4,7,0,ŠK Odeva Lipany
+Slavomír Kraľovič,2,7,1,ŠK Odeva Lipany
+Marcel Vysočan,12,5,0,ŠK Odeva Lipany
+Aleksei Shliakhov,0,2,1,ŠK Odeva Lipany
+Oleksandr Yeromin,0,0,0,ŠK Odeva Lipany
+Peter Vitovič,8,8,0,ŠK Odeva Lipany
+Adrián Jusko,0,0,0,ŠK Odeva Lipany
+Nicolas Vysočan,0,0,0,ŠK Odeva Lipany
+Lukáš Micherda,0,7,0,ŠK Odeva Lipany
+Michal Kraľovič,7,2,0,ŠK Odeva Lipany
+Jozef Vranko,4,1,1,ŠK Odeva Lipany
+Michal Vysočan,2,0,0,ŠK Odeva Lipany
+Benedikt Tomčík,0,0,0,ŠK Odeva Lipany
+Matúš Sakala,0,0,0,ŠK Odeva Lipany
+Kristián Tináth,4,4,0,ŠK Odeva Lipany
 Miloš Lojka,0,1,0,MFK Snina
 Matúš Lajtár,0,0,0,MFK Snina
 Filip Piroščák,0,3,0,MFK Snina
@@ -83,95 +142,6 @@ Marián Sabolčík,7,6,0,MFK Vranov nad Topľou
 Jozef Kandala,4,4,0,MFK Vranov nad Topľou
 Branislav Hreha,0,0,0,MFK Vranov nad Topľou
 Erik Burcák,2,0,0,MFK Vranov nad Topľou
-Peter Bartoš,0,0,0,ŠK Odeva Lipany
-Lukáš Kivader,0,0,0,ŠK Odeva Lipany
-Lukáš Šupka,0,0,0,ŠK Odeva Lipany
-Mário Jacko,6,4,0,ŠK Odeva Lipany
-Ján Dlugoš,5,5,0,ŠK Odeva Lipany
-Radoslav Kamenec,0,8,0,ŠK Odeva Lipany
-Branislav Poremba,0,3,2,ŠK Odeva Lipany
-Lukáš Timko,0,2,0,ŠK Odeva Lipany
-Jakub Bujňák,0,0,0,ŠK Odeva Lipany
-Pavol Popovec,0,0,0,ŠK Odeva Lipany
-Roman Kovalčík,4,7,0,ŠK Odeva Lipany
-Slavomír Kraľovič,2,7,1,ŠK Odeva Lipany
-Marcel Vysočan,12,5,0,ŠK Odeva Lipany
-Aleksei Shliakhov,0,2,1,ŠK Odeva Lipany
-Oleksandr Yeromin,0,0,0,ŠK Odeva Lipany
-Peter Vitovič,8,8,0,ŠK Odeva Lipany
-Adrián Jusko,0,0,0,ŠK Odeva Lipany
-Nicolas Vysočan,0,0,0,ŠK Odeva Lipany
-Lukáš Micherda,0,7,0,ŠK Odeva Lipany
-Michal Kraľovič,7,2,0,ŠK Odeva Lipany
-Jozef Vranko,4,1,1,ŠK Odeva Lipany
-Michal Vysočan,2,0,0,ŠK Odeva Lipany
-Benedikt Tomčík,0,0,0,ŠK Odeva Lipany
-Matúš Sakala,0,0,0,ŠK Odeva Lipany
-Kristián Tináth,4,4,0,ŠK Odeva Lipany
-Dušan Dlugoš,0,1,0,MŠK Tesla Stropkov
-Samuel Seman,0,0,0,MŠK Tesla Stropkov
-Filip Špak,1,4,1,MŠK Tesla Stropkov
-Miroslav Keresteš,4,4,0,MŠK Tesla Stropkov
-Marek Matkobiš,0,6,0,MŠK Tesla Stropkov
-Lukáš Zapotocký,0,2,0,MŠK Tesla Stropkov
-Samuel Červeňák,0,0,0,MŠK Tesla Stropkov
-Jakub Štefánik,0,7,0,MŠK Tesla Stropkov
-Tobiáš Konár,0,0,0,MŠK Tesla Stropkov
-Mamadou Traoré Coulibaly,0,4,0,MŠK Tesla Stropkov
-Viktor Bochin,0,0,0,MŠK Tesla Stropkov
-Klaudio Slebodník,0,0,0,MŠK Tesla Stropkov
-Adam Marcišin,0,0,0,MŠK Tesla Stropkov
-Dávid VIET NGUYEN HIEN,0,5,1,MŠK Tesla Stropkov
-Jhonatan Garcia Araque,3,6,0,MŠK Tesla Stropkov
-Marek Vasiľ,4,4,0,MŠK Tesla Stropkov
-Martin Polaščík,4,0,0,MŠK Tesla Stropkov
-Alex Olejár,3,9,1,MŠK Tesla Stropkov
-Erik Hurný,1,3,0,MŠK Tesla Stropkov
-Adrián Leško,8,4,1,MŠK Tesla Stropkov
-Lukáš Milan Ivančo,0,1,0,MŠK Tesla Stropkov
-Yevhenii Nemtinov,3,2,0,MŠK Tesla Stropkov
-Marko Milunović,0,1,0,MŠK Tesla Stropkov
-Richard Župa,0,0,0,MŠK Tesla Stropkov
-Lukáš Jendrek,1,0,0,MŠK Tesla Stropkov
-Richard Sabol,0,1,1,MŠK Tesla Stropkov
-Dávid Keresteš,0,2,0,MŠK Tesla Stropkov
-Jozef Sejka,0,0,0,MŠK Tesla Stropkov
-Dávid Ivanecký,10,4,0,MŠK Tesla Stropkov
-Frederik Varga,7,4,1,MŠK Tesla Stropkov
-Šimon Dovičák,1,5,0,MŠK Tesla Stropkov
-Filip Bobrovský,2,0,0,MŠK Tesla Stropkov
-Kevin Daniel Castrillón Gómez,6,3,1,MŠK Tesla Stropkov
-Aliou Diao,8,0,0,MŠK Tesla Stropkov
-Tomáš Jenčo,0,1,0,MŠK NOVOHRAD Lučenec
-Erik Čičmanec,0,0,0,MŠK NOVOHRAD Lučenec
-Marko Fabian,1,3,0,MŠK NOVOHRAD Lučenec
-Radovan Komora,0,1,0,MŠK NOVOHRAD Lučenec
-Peter Karkus,0,4,0,MŠK NOVOHRAD Lučenec
-Igor Kotora,2,6,0,MŠK NOVOHRAD Lučenec
-Jozef Šulek,3,5,0,MŠK NOVOHRAD Lučenec
-Jakub Budáč,0,2,0,MŠK NOVOHRAD Lučenec
-Martin Marcik,0,1,0,MŠK NOVOHRAD Lučenec
-Dávid Danyi,0,0,0,MŠK NOVOHRAD Lučenec
-Sebastián Dudáš,0,0,0,MŠK NOVOHRAD Lučenec
-Martin Tannhauser,0,4,0,MŠK NOVOHRAD Lučenec
-Miroslav Daško,0,4,1,MŠK NOVOHRAD Lučenec
-Peter Imre,0,2,0,MŠK NOVOHRAD Lučenec
-Patrik Suja,0,5,0,MŠK NOVOHRAD Lučenec
-Marko Beran,1,2,0,MŠK NOVOHRAD Lučenec
-Róbert Berky,2,2,0,MŠK NOVOHRAD Lučenec
-Joachim Jashari,0,1,0,MŠK NOVOHRAD Lučenec
-Roman Matuška,0,0,0,MŠK NOVOHRAD Lučenec
-Andrej Pipíška,8,5,0,MŠK NOVOHRAD Lučenec
-Peter Hulec,0,2,0,MŠK NOVOHRAD Lučenec
-Samuel Kovalčin,7,5,0,MŠK NOVOHRAD Lučenec
-Marek Ufrla,0,5,0,MŠK NOVOHRAD Lučenec
-Jakub Telek,0,1,0,MŠK NOVOHRAD Lučenec
-Michal Varšo,0,0,0,MŠK NOVOHRAD Lučenec
-Tomáš Boháčik,0,0,0,MŠK NOVOHRAD Lučenec
-Márk Murányi,0,0,0,MŠK NOVOHRAD Lučenec
-Kevin Oláh,6,6,0,MŠK NOVOHRAD Lučenec
-Michal Dedok,4,2,0,MŠK NOVOHRAD Lučenec
-Jakub Molnár,1,0,0,MŠK NOVOHRAD Lučenec
 Frederik Valach,0,2,0,Slávia TU Košice
 Ľubomír Pangrác,0,0,0,Slávia TU Košice
 Filip Mišina,0,1,0,Slávia TU Košice
@@ -212,6 +182,31 @@ Samuel Segeďa,0,3,0,Slávia TU Košice
 Mojmír Trebuňák,1,3,0,Slávia TU Košice
 Vladimír Chovaník,0,0,0,Slávia TU Košice
 Samuel Závacký,0,0,0,Slávia TU Košice
+Niko Páriš,0,0,0,FTC Fiľakovo
+Miroslav Žilík,0,0,0,FTC Fiľakovo
+Máté Balázs,0,0,0,FTC Fiľakovo
+Rihárd Illés,0,6,0,FTC Fiľakovo
+Richard Nemergut,2,5,0,FTC Fiľakovo
+Adam Hornyák,0,2,0,FTC Fiľakovo
+Kornel Telek,0,4,1,FTC Fiľakovo
+Oleksandr Komar,0,1,0,FTC Fiľakovo
+Máté Köböl,0,1,0,FTC Fiľakovo
+Lukáš Kojnok,0,8,0,FTC Fiľakovo
+Daniel Košík,0,0,0,FTC Fiľakovo
+Matej Fajd,0,0,0,FTC Fiľakovo
+Erik Urbančok,0,3,0,FTC Fiľakovo
+Dominik Iboš,2,5,0,FTC Fiľakovo
+Adam Hronček,1,1,0,FTC Fiľakovo
+Štefan Rubint,1,4,0,FTC Fiľakovo
+Nikolas Ádám,0,1,0,FTC Fiľakovo
+Dominik Adamec,2,3,0,FTC Fiľakovo
+Ernö Major,5,1,0,FTC Fiľakovo
+Marko Püšpöky,1,10,0,FTC Fiľakovo
+Gocha Tchania,0,3,0,FTC Fiľakovo
+Irakli Akirtava,7,2,1,FTC Fiľakovo
+Graham Mbong Ajebe Metuk,10,6,0,FTC Fiľakovo
+Pál Kristóf Ciceu,2,1,0,FTC Fiľakovo
+Otari Kvernadze,4,5,0,FTC Fiľakovo
 Branislav Sokol,0,2,0,MŠK Rimavská Sobota
 Krisztián Gregor,0,0,0,MŠK Rimavská Sobota
 Daniel Kotrík,0,0,0,MŠK Rimavská Sobota
@@ -250,3 +245,238 @@ Olami Abiodun Agboola,0,0,0,MŠK Rimavská Sobota
 Emmanuel Emeka Okonji,3,1,0,MŠK Rimavská Sobota
 Paul Chinedu Ngwu,0,3,0,MŠK Rimavská Sobota
 Marián Chobot,0,0,0,MŠK Rimavská Sobota
+Tomáš Lešňovský,0,0,1,MŠK Námestovo
+Nikolas Serdel,0,0,0,MŠK Námestovo
+Erik Krivulčík,0,1,0,MŠK Námestovo
+Matej Klinovský,0,0,0,MŠK Námestovo
+Daniel Kubica,0,0,0,MŠK Námestovo
+Dávid Hrubjak,0,1,0,MŠK Námestovo
+Vojtech Fukas,1,5,0,MŠK Námestovo
+Ľubomír Jaššo,2,7,0,MŠK Námestovo
+Nassim Aliouat,0,7,1,MŠK Námestovo
+Dávid Vorčák,0,1,0,MŠK Námestovo
+Matúš Melek,0,0,0,MŠK Námestovo
+Martin Habiňák,1,6,0,MŠK Námestovo
+Martin Palider,0,8,0,MŠK Námestovo
+Matúš Snovák,1,2,0,MŠK Námestovo
+Matúš Otruba,12,3,0,MŠK Námestovo
+Martin Jurina,11,4,1,MŠK Námestovo
+Peter Hrkeľ,2,0,0,MŠK Námestovo
+Matúš Barutík,1,4,1,MŠK Námestovo
+Oleksandr Bilonozhko,2,3,0,MŠK Námestovo
+Erik Gonšenica,0,0,0,MŠK Námestovo
+Martin Košarišťan,0,0,0,MŠK Námestovo
+Andrej Hojo,0,1,0,MŠK Námestovo
+Juraj Košút,0,0,0,MŠK Námestovo
+Lukáš Kubica,1,0,0,MŠK Námestovo
+Vladislav Cicek,12,4,0,MŠK Námestovo
+Igor Kľuska,0,0,0,MŠK Námestovo
+Lukáš Melek,0,0,0,MŠK Námestovo
+Radovan Medvecký,2,1,0,MŠK Námestovo
+Tomáš Jenčo,0,1,0,MŠK NOVOHRAD Lučenec
+Erik Čičmanec,0,0,0,MŠK NOVOHRAD Lučenec
+Marko Fabian,1,3,0,MŠK NOVOHRAD Lučenec
+Radovan Komora,0,1,0,MŠK NOVOHRAD Lučenec
+Peter Karkus,0,4,0,MŠK NOVOHRAD Lučenec
+Igor Kotora,2,6,0,MŠK NOVOHRAD Lučenec
+Jozef Šulek,3,5,0,MŠK NOVOHRAD Lučenec
+Jakub Budáč,0,2,0,MŠK NOVOHRAD Lučenec
+Martin Marcik,0,1,0,MŠK NOVOHRAD Lučenec
+Dávid Danyi,0,0,0,MŠK NOVOHRAD Lučenec
+Sebastián Dudáš,0,0,0,MŠK NOVOHRAD Lučenec
+Martin Tannhauser,0,4,0,MŠK NOVOHRAD Lučenec
+Miroslav Daško,0,4,1,MŠK NOVOHRAD Lučenec
+Peter Imre,0,2,0,MŠK NOVOHRAD Lučenec
+Patrik Suja,0,5,0,MŠK NOVOHRAD Lučenec
+Marko Beran,1,2,0,MŠK NOVOHRAD Lučenec
+Róbert Berky,2,2,0,MŠK NOVOHRAD Lučenec
+Joachim Jashari,0,1,0,MŠK NOVOHRAD Lučenec
+Roman Matuška,0,0,0,MŠK NOVOHRAD Lučenec
+Andrej Pipíška,8,5,0,MŠK NOVOHRAD Lučenec
+Peter Hulec,0,2,0,MŠK NOVOHRAD Lučenec
+Samuel Kovalčin,7,5,0,MŠK NOVOHRAD Lučenec
+Marek Ufrla,0,5,0,MŠK NOVOHRAD Lučenec
+Jakub Telek,0,1,0,MŠK NOVOHRAD Lučenec
+Michal Varšo,0,0,0,MŠK NOVOHRAD Lučenec
+Tomáš Boháčik,0,0,0,MŠK NOVOHRAD Lučenec
+Márk Murányi,0,0,0,MŠK NOVOHRAD Lučenec
+Kevin Oláh,6,6,0,MŠK NOVOHRAD Lučenec
+Michal Dedok,4,2,0,MŠK NOVOHRAD Lučenec
+Jakub Molnár,1,0,0,MŠK NOVOHRAD Lučenec
+Erik Feriančik,0,1,0,TJ Tatran Oravské Veselé
+Andrej Ruman,0,0,0,TJ Tatran Oravské Veselé
+Tomáš Kormančík,0,0,0,TJ Tatran Oravské Veselé
+Martin Kumor,0,0,0,TJ Tatran Oravské Veselé
+Marián Gočal,0,2,0,TJ Tatran Oravské Veselé
+Andrej Kmeť,1,3,1,TJ Tatran Oravské Veselé
+Marek Lanko,3,1,0,TJ Tatran Oravské Veselé
+Adrián Lehotský,1,2,0,TJ Tatran Oravské Veselé
+Lukáš Kulich,0,1,0,TJ Tatran Oravské Veselé
+Adam Kraľovanský,0,1,0,TJ Tatran Oravské Veselé
+Marián Šmiheľ,3,3,0,TJ Tatran Oravské Veselé
+Matúš Capko,0,0,0,TJ Tatran Oravské Veselé
+Marko Michalík,0,1,0,TJ Tatran Oravské Veselé
+Urban Mazanovský,0,1,0,TJ Tatran Oravské Veselé
+Adrian Bartoš,0,0,0,TJ Tatran Oravské Veselé
+Ivan Kotora,1,2,0,TJ Tatran Oravské Veselé
+Ján Garaj,0,7,1,TJ Tatran Oravské Veselé
+Lukáš Ondrek,0,5,1,TJ Tatran Oravské Veselé
+Milan Hvoľka,5,3,0,TJ Tatran Oravské Veselé
+Lukáš Janič,2,2,0,TJ Tatran Oravské Veselé
+Jozef Stašák,1,2,0,TJ Tatran Oravské Veselé
+Richard Baláž,1,0,0,TJ Tatran Oravské Veselé
+Michal Dopater,2,4,0,TJ Tatran Oravské Veselé
+Miroslav Kubasák,0,0,0,TJ Tatran Oravské Veselé
+Tomáš Krajčí,0,0,0,TJ Tatran Oravské Veselé
+Rastislav Smondek,0,0,0,TJ Tatran Oravské Veselé
+Viktor Čakvári,0,0,0,TJ Tatran Oravské Veselé
+Tomáš Staš,0,0,0,TJ Tatran Oravské Veselé
+Marko Madleňák,0,0,0,TJ Tatran Oravské Veselé
+Vladimír Trabalík,1,0,0,TJ Tatran Oravské Veselé
+Martin Vojtašák,0,0,0,TJ Tatran Oravské Veselé
+Filip Mráz,2,2,0,TJ Tatran Oravské Veselé
+Tomáš Gerát,0,1,0,TJ Tatran Oravské Veselé
+Samuel Miroslav Kuchárik,2,2,0,TJ Tatran Oravské Veselé
+Peter Voško,5,0,0,TJ Tatran Oravské Veselé
+Vladimír Škuta,0,0,0,TJ Tatran Oravské Veselé
+Kristián Ratica,0,0,0,TJ Tatran Oravské Veselé
+Radoslav Ďanovský,4,4,1,TJ Tatran Oravské Veselé
+Adam Líška,2,0,0,TJ Tatran Oravské Veselé
+Tobiáš Diviš,1,0,0,TJ Tatran Oravské Veselé
+Jakub Slaniniak,0,1,0,TJ Baník Kalinovo
+Matej Jurička,0,0,0,TJ Baník Kalinovo
+Adam Danko,0,0,0,TJ Baník Kalinovo
+Vladimír Kurčík,0,0,0,TJ Baník Kalinovo
+Lukáš Domaniský,0,0,0,TJ Baník Kalinovo
+Tomáš Filipiak,0,8,0,TJ Baník Kalinovo
+Milan Vilhan,3,2,3,TJ Baník Kalinovo
+Filip Tatar,0,2,0,TJ Baník Kalinovo
+Filip Mielke,0,0,0,TJ Baník Kalinovo
+Alex Molčan,0,0,0,TJ Baník Kalinovo
+Ľuboš Uhlár,0,3,3,TJ Baník Kalinovo
+Timotej Zaťko,0,0,0,TJ Baník Kalinovo
+Róbert Kolka,0,0,0,TJ Baník Kalinovo
+Adam Argyusi,0,0,0,TJ Baník Kalinovo
+Pablo Felipe Rabelo Dos Santos,2,7,1,TJ Baník Kalinovo
+Alex Marković,0,0,0,TJ Baník Kalinovo
+Mário Mrva,1,0,0,TJ Baník Kalinovo
+Peter Karkus,0,4,0,TJ Baník Kalinovo
+Matej Oravec,0,0,0,TJ Baník Kalinovo
+Patrik Kováč,1,7,0,TJ Baník Kalinovo
+Šimon Faško,1,0,0,TJ Baník Kalinovo
+Filip Blahuta,1,2,0,TJ Baník Kalinovo
+Tomáš Fajčík,1,3,0,TJ Baník Kalinovo
+Collins Terese Toshor,0,7,0,TJ Baník Kalinovo
+Ján Segeč,0,0,0,TJ Baník Kalinovo
+Samuel Sekáč,0,1,0,TJ Baník Kalinovo
+Patrik Blahút,5,0,0,TJ Baník Kalinovo
+Mahmudu Bajo,2,0,0,TJ Baník Kalinovo
+Viktor Koták,1,11,0,TJ Baník Kalinovo
+Samuel Ďatko,3,2,0,TJ Baník Kalinovo
+Jozef Špyrka,0,0,0,TJ Baník Kalinovo
+Jakub Zábojník,0,0,0,TJ Baník Kalinovo
+Ridwan Sanusi,3,1,0,TJ Baník Kalinovo
+Adam Gombala,0,0,0,TJ Baník Kalinovo
+Mykhailo Khomych,0,0,0,TJ Baník Kalinovo
+Mikuláš Bakaľa,1,0,0,TJ Baník Kalinovo
+Muhammed Hydara,1,1,0,TJ Baník Kalinovo
+Vincent Chyla,0,1,0,TJ Baník Kalinovo
+Pavol Kuťka,0,0,0,TJ Baník Kalinovo
+Peter Štefánik,0,0,0,TJ Baník Kalinovo
+Samuel Vasko,0,0,0,TJ Baník Kalinovo
+Michal Kostelný,0,1,0,TJ Baník Kalinovo
+Sebastián Duda,0,1,0,TJ Baník Kalinovo
+Marek Belko,3,8,0,TJ Baník Kalinovo
+Mark Assinor Osei,0,0,0,TJ Baník Kalinovo
+Michal Breznanik,7,4,0,TJ Baník Kalinovo
+Adrián Filipiak,0,2,0,TJ Baník Kalinovo
+Andy Masaryk,2,0,0,TJ Baník Kalinovo
+Martin Talakov,3,1,0,TJ Baník Kalinovo
+Adrian Lutka,0,0,0,TJ Baník Kalinovo
+Samuel Mašlej,0,0,0,TJ Baník Kalinovo
+Marek Kuzma,0,0,0,TJ Baník Kalinovo
+Maksym Khiminets,0,1,0,TJ Baník Kalinovo
+Miroslav Hronec,0,0,0,TJ Baník Kalinovo
+Lekan Okunola,1,0,0,TJ Baník Kalinovo
+Alasana Yirajang,2,1,0,TJ Baník Kalinovo
+Peter Sukovský,0,0,0,Partizán Bardejov BŠK
+Marek Varešinský,0,2,0,Partizán Bardejov BŠK
+Yohan Josue Molleja Garcia,0,0,0,Partizán Bardejov BŠK
+Zdenko Prokeš,0,0,0,Partizán Bardejov BŠK
+Matúš Putnocký,0,0,0,Partizán Bardejov BŠK
+Gabriel Ivančo,0,0,0,Partizán Bardejov BŠK
+Ondrej Elexa,1,4,0,Partizán Bardejov BŠK
+Timotej Petrišák,0,4,0,Partizán Bardejov BŠK
+Hugo Šott,1,1,1,Partizán Bardejov BŠK
+Michal Berecký,5,9,1,Partizán Bardejov BŠK
+Terry Romain Grimaldi,1,1,0,Partizán Bardejov BŠK
+Pedro Guilherme Chaves Batista Da Silva,0,0,0,Partizán Bardejov BŠK
+Róbert Makeľ,0,3,0,Partizán Bardejov BŠK
+Serge Mbang,1,5,0,Partizán Bardejov BŠK
+Jessy Kiangekaka,0,0,0,Partizán Bardejov BŠK
+Stanislav Soroka,0,0,0,Partizán Bardejov BŠK
+Damián Leško,0,0,0,Partizán Bardejov BŠK
+Miroslav Hanuščák,0,2,0,Partizán Bardejov BŠK
+David Velasquez Rodriguez,2,3,0,Partizán Bardejov BŠK
+Jaroslav Kmec,1,3,0,Partizán Bardejov BŠK
+Juraj Kuhajdík,1,4,0,Partizán Bardejov BŠK
+Šimon Kukulský,1,2,0,Partizán Bardejov BŠK
+Daniel Garcia Alzate,0,0,0,Partizán Bardejov BŠK
+Šimon Stachura,5,2,1,Partizán Bardejov BŠK
+Abraham Portugalyan,2,3,0,Partizán Bardejov BŠK
+Pavol Marcinek,0,0,0,Partizán Bardejov BŠK
+Šimon Paňko,0,0,0,Partizán Bardejov BŠK
+Darwin Samuel Gonzalez Turbay,3,1,0,Partizán Bardejov BŠK
+Carlos David Mena Jimenez,2,2,0,Partizán Bardejov BŠK
+Ľuboš Tkáčik,0,1,0,Partizán Bardejov BŠK
+Martin Šalata,0,0,0,Partizán Bardejov BŠK
+Jorge Luís Carvalho dos Anjos Filho,0,0,0,Partizán Bardejov BŠK
+Dávid Kuhajdík,3,3,0,Partizán Bardejov BŠK
+Jakub Štefančin,5,7,1,Partizán Bardejov BŠK
+Nikolas Lukáč,3,2,0,Partizán Bardejov BŠK
+Alex Michalov,0,0,0,Partizán Bardejov BŠK
+Dávid Zamborský,0,2,0,Partizán Bardejov BŠK
+Jakub Hric,1,0,1,Partizán Bardejov BŠK
+Ondrej Vasilco,0,0,0,1.FK Svidník
+Anton Dzupina,0,1,0,1.FK Svidník
+Timotej Janošík,0,2,0,1.FK Svidník
+Stanislav Chukhra,0,0,0,1.FK Svidník
+Adrián Knurovský,0,0,0,1.FK Svidník
+Zdenko Haluška,0,0,0,1.FK Svidník
+Filip Baláž,0,1,0,1.FK Svidník
+Ján Ducár,0,7,1,1.FK Svidník
+Pablo Felipe Rabelo Dos Santos,2,7,1,1.FK Svidník
+Matúš Lukčo,1,7,1,1.FK Svidník
+Samuel Gajdoš,1,0,0,1.FK Svidník
+Vasyl Hoponko,0,0,0,1.FK Svidník
+Norbert Grejták,4,8,2,1.FK Svidník
+Samuel Balica,0,0,0,1.FK Svidník
+Peter Šimco,1,2,1,1.FK Svidník
+Timotej Čabala,0,0,0,1.FK Svidník
+Marek Zlacký,0,1,0,1.FK Svidník
+Adam Jozef Oravec,1,0,0,1.FK Svidník
+Igor Komjatý,1,1,0,1.FK Svidník
+Abov Avetisian,0,0,0,1.FK Svidník
+Boris Pončák,2,1,0,1.FK Svidník
+Gabriel Chukwuwenuba Ebede,0,1,0,1.FK Svidník
+Samuel Šuľák,0,0,0,1.FK Svidník
+Guilherme Sergio dos Santos Lima,1,1,0,1.FK Svidník
+Matej Makara,0,2,0,1.FK Svidník
+Brian Jobko,0,1,0,1.FK Svidník
+Marko Palaj,0,0,0,1.FK Svidník
+Kristián Luščík,0,0,0,1.FK Svidník
+Aldahir Jiménez Yánez,0,7,0,1.FK Svidník
+Marián Fedor,1,4,1,1.FK Svidník
+Tadeáš Leško,1,3,0,1.FK Svidník
+Sebastián Patkaň,1,0,0,1.FK Svidník
+Marek Vasiľ,4,4,0,1.FK Svidník
+Cyril Vasiľ,2,2,0,1.FK Svidník
+Jaroslav Holp,0,0,0,1.FK Svidník
+Tomáš Jurč,0,3,0,1.FK Svidník
+Karl Emmanuel Oufouet,3,2,0,1.FK Svidník
+Ivan Habak,0,0,0,1.FK Svidník
+Roman Bush,0,0,0,1.FK Svidník
+Oliver Reiter,8,1,0,1.FK Svidník
+Tomáš Klučár,1,5,1,1.FK Svidník
+Oleksandr Voitiuk,3,4,0,1.FK Svidník
+Tibor Rogoš,0,0,0,1.FK Svidník
